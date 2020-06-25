@@ -12,6 +12,6 @@
 
 # Advertencia
 
-* Una vez ejecutada la app en un navegador: para poder ver el objeto requerido con la id y los objetos **Cliente** y **Producto**, abrir la consola del navegador para poder verlo.
+* **Una vez ejecutada la app en un navegador:** para poder ver el objeto requerido con la id y los objetos **Cliente** y **Producto**, abrir la consola del navegador para poder verlo.
 
 ![stockApp - Prueba Fullstack](./media/img2.jpg)
