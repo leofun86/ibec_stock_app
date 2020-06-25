@@ -10,7 +10,7 @@
 
 * **Z_taller_multimedia:** archivos varios para entorno visual y videotutoriales (desde los que se puede acceder en el menú de la app)
 
-* [VER DEMO FUNCIONAL](https://youtu.be/lAXj2hwQV-Y)
+# [VER DEMO FUNCIONAL](https://youtu.be/lAXj2hwQV-Y)
 
 # Advertencia
 
