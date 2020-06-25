@@ -1,9 +1,6 @@
-# Apendiendo Angular
+# Stock app
 
-Instalar Node.JS
------------------
-Necesitarás tener instalado la última (o más estable) versión de Node.JS. Si ya lo tienes instalado, omite este paso.
-* [Descargar Node.JS](https://nodejs.org)
+![stockApp - Prueba Fullstack](./media/img1.jpg)
 
 Instalar Angular
 ----------------
